@@ -7,3 +7,4 @@ before_install:
 
 script:
   - docker run iftikharmahmood/docker-react npm run test -- --coverage
+  
